@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SearchableSpinnerView">
+        <attr name="showSearchBar" format="boolean"/>
+        <attr name="setCancelable" format="boolean"/>
+        <attr name="showTick" format="boolean"/>
+        <attr name="dialogTitle" format="string"/>
+        <attr name="dialogSearchHint" format="string"/>
+        <attr name="negativeButtonText" format="string"/>
+    </declare-styleable>
+</resources>
